@@ -3,7 +3,7 @@ package ru.avk.chat_my;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class FXMLDocumentController {
+public class MyController {
     @FXML
     private Label welcomeText;
     
